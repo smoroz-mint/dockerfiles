@@ -14,6 +14,9 @@ RUN set -xe \
         fontconfig \
         fontconfig-config \
         fonts-dejavu-core \
+        openssh-client \
+        python3.8 \
+        p7zip-full \
         \
         build-essential \
         make \
