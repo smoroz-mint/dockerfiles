@@ -15,6 +15,7 @@ RUN set -xe \
         fontconfig-config \
         fonts-dejavu-core \
         openssh-client \
+        sshpass \
         python3.8 \
         p7zip-full \
         \
